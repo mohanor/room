@@ -64,7 +64,7 @@
 h1, h2{
     font-family: 'Spartan', sans-serif;
     font-weight: 700 !important;
-    font-size: 40px !important;
+    font-size: 36px !important;
     margin-bottom: 15px;
 }
 
@@ -88,6 +88,7 @@ p{
     padding: 0;
     margin-top: 30px;
     font-weight: 600 !important;
+    padding-left: 0 !important;
 }
 
 .arrow {
